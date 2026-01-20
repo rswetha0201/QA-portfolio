@@ -58,5 +58,5 @@ Seeking an entry-level QA role.
 ---
 
 ## 📬 Contact
-- Email: swetha@email.com  
-- LinkedIn: https://linkedin.com/in/yourprofile
+- Email: r.swetha0201@email.com  
+- LinkedIn: https://linkedin.com/in/swetha-r-02j1
