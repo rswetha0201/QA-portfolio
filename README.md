@@ -31,15 +31,11 @@ Seeking an entry-level QA role.
 - Performed functional, smoke, and regression testing  
 - Validated application workflows against requirements  
 
----
-
 ### 🔹 E-Commerce Website Testing
 **Role:** Manual Tester  
 - Tested login, product search, cart, and checkout modules  
 - Verified validations and error messages  
 - Conducted regression and browser compatibility testing  
-
----
 
 ### 🔹 API Testing using Postman
 **Role:** QA Tester  
@@ -50,9 +46,7 @@ Seeking an entry-level QA role.
 ---
 
 ## 📎 Sample Work
-- Manual Test Cases – (Upload Excel/Google Sheet)
-- Bug Reports – (PDF or screenshots)
-- Postman Collections – (JSON file)
+- Manual Test Cases – [Login & Registration Test Cases](https://github.com/rswetha0201/QA-portfolio/blob/main/Login_and_Registration_TestCases.xlsx)
 
 ---
 
@@ -64,4 +58,4 @@ Seeking an entry-level QA role.
 
 ## 📬 Contact
 - Email: swetha@email.com  
-- LinkedIn: www.linkedin.com/in/swetha-r-02j1
+- LinkedIn: https://linkedin.com/in/yourprofile
