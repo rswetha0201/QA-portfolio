@@ -47,7 +47,7 @@ Seeking an entry-level QA role.
 
 ## 📎 Sample Work
 - Manual Test Cases – [Login & Registration Test Cases](https://github.com/rswetha0201/QA-portfolio/blob/main/Login_and_Registration_TestCases.xlsx)
--  Bug Reports – [Professional Bug Report](https://github.com/rswetha0201/QA-portfolio/blob/main/Swetha_QA_Bug_Report.xlsx)
+-  Bug Reports – [Bug Report](https://github.com/rswetha0201/QA-portfolio/blob/main/Swetha_QA_Bug_Report.xlsx)
 
 ---
 
